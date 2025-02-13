@@ -21,7 +21,7 @@ if (window.location != centered_tmp) {
 
 
 function overlay_init() {
-  para.style.backgroundColor = "#65CFE4";
+  para.style.backgroundColor = "#72d4e8";
   para.style.width = "84px";
   //window.location.url = centered_tmp;
   para.style.position = "relative";
