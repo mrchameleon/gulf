@@ -1,0 +1,37 @@
+# center -- lat, long, zoom
+2.9 max zoom out
+~12 max zoom in
+
+https://www.google.com/maps/@21.1607502,-90.3105579,4.38z?entry=ttu&g_ep=EgoyMDI1MDIxMC4wIKXMDSoASAFQAw%3D%3D
+
+replace https://www.google.com/maps/
+''
+@lat, @lng, zoom 
+
+4.38z 
+
+remove ?entry crap
+
+
+
+
+
+Top left visible corner
+
+Top right visible corner
+
+Bottom Left visible corner
+
+Bottom right visible corner
+
+
+https://github.com/panicsteve/cloud-to-butt
+
+
+
+
+# create chrome extension
+https://www.geeksforgeeks.org/building-basic-chrome-extension/
+
+# publish 
+https://developer.chrome.com/docs/webstore/publish
